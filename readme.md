@@ -1,4 +1,4 @@
-# ![Banner](https://i.imgur.com/Ihb0YXp.png)
+# ![Banner](https://camo.githubusercontent.com/5e23dbf0471513401ea878b9f387486b19f5c17c86dcd56d97e1ac0fef800187/68747470733a2f2f692e696d6775722e636f6d2f4d5455524556752e706e67)
 #
 ## Information
 This script uses improved versions of Exunys' [Aimbot](https://github.com/quantumloader/roblox/libs/qarmor_aimbot.lua) and [Wall Hack](https://github.com/quantumloader/roblox/libs/esp_libv3.lua) scripts which settings are finally made configurable by a GUI.
