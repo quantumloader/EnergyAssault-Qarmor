@@ -1,9 +1,9 @@
 # ![Banner](https://i.imgur.com/Ihb0YXp.png)
 #
 ## Information
-This script uses improved versions of Exunys' [Aimbot V2](https://github.com/Exunys/Aimbot-V2) and [Wall Hack](https://github.com/GhostDuckyy/ESP-Library/blob/main/Sense/ReadMe.md) scripts which settings are finally made configurable by a GUI.
+This script uses improved versions of Exunys' [Aimbot](https://github.com/quantumloader/roblox/libs/qarmor_aimbot.lua) and [Wall Hack](https://github.com/quantumloader/roblox/libs/esp_libv3.lua) scripts which settings are finally made configurable by a GUI.
 
-The UI Library that this script uses is [Pepsi's UI Library](https://v3rmillion.net/showthread.php?tid=1139856).
+The UI Library that this script uses is [Qarmour's UI Library](https://github.com/quantumloader/roblox/libs/qarmor_ui.lua).
 
 Press ***Right Shift*** to open/close the GUI. You can also change this key by pressing on the white cogwheel icon (settings) and navigating to the *Settings* section that is located at the bottom right side of the UI.
 
@@ -14,5 +14,5 @@ Press ***Right Shift*** to open/close the GUI. You can also change this key by p
 ## Script
 Load the script by copying it by executing the code below.
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/quantumloader/Energy-Assault-Qarmor/refs/heads/main/script_main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/quantumloader/EnergyAssault-Qarmor/refs/heads/main/script.lua"))()
 ```
